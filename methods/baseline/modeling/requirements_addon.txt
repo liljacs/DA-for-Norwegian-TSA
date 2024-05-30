@@ -1,0 +1,6 @@
+datasets
+evaluate
+transformers
+seqeval
+matplotlib
+seaborn

@@ -1,0 +1,2781 @@
+#sent_id=201911-01-01
+#text=[
+  {
+    "id": 1,
+    "text": "Philips",
+    "lemma": "Philip",
+    "upos": "PROPN",
+    "xpos": "subst",
+    "head": 0,
+    "deprel": "root",
+    "start_char": 0,
+    "end_char": 7,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 2,
+    "text": "190G6",
+    "lemma": "190G6",
+    "upos": "NUM",
+    "xpos": "det",
+    "feats": "NumType=Card|Number=Plur",
+    "head": 1,
+    "deprel": "flat:name",
+    "start_char": 8,
+    "end_char": 13,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  }
+]
+1	Philips	O	Philip	PROPN
+2	190G6	O	190G6	NUM
+
+#sent_id=201911-02-01
+#text=[
+  {
+    "id": 1,
+    "text": "Med",
+    "lemma": "med",
+    "upos": "ADP",
+    "xpos": "prep",
+    "head": 3,
+    "deprel": "case",
+    "start_char": 0,
+    "end_char": 3,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 2,
+    "text": "integrerte",
+    "lemma": "integrere",
+    "upos": "ADJ",
+    "xpos": "adj",
+    "feats": "Number=Plur|VerbForm=Part",
+    "head": 3,
+    "deprel": "amod",
+    "start_char": 4,
+    "end_char": 14,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 3,
+    "text": "høyttalere",
+    "lemma": "høyttaler",
+    "upos": "NOUN",
+    "xpos": "subst",
+    "feats": "Definite=Ind|Gender=Masc|Number=Plur",
+    "head": 20,
+    "deprel": "obl",
+    "start_char": 15,
+    "end_char": 25,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 4,
+    "text": "som",
+    "lemma": "som",
+    "upos": "SCONJ",
+    "xpos": "sbu",
+    "head": 10,
+    "deprel": "mark",
+    "start_char": 26,
+    "end_char": 29,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 5,
+    "text": "på",
+    "lemma": "på",
+    "upos": "ADP",
+    "xpos": "prep",
+    "head": 7,
+    "deprel": "case",
+    "start_char": 30,
+    "end_char": 32,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 6,
+    "text": "ingen",
+    "lemma": "ingen",
+    "upos": "DET",
+    "xpos": "det",
+    "feats": "Gender=Masc|Number=Sing|Polarity=Neg",
+    "head": 7,
+    "deprel": "det",
+    "start_char": 33,
+    "end_char": 38,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 7,
+    "text": "måte",
+    "lemma": "måte",
+    "upos": "NOUN",
+    "xpos": "subst",
+    "feats": "Definite=Ind|Gender=Masc|Number=Sing",
+    "head": 10,
+    "deprel": "obl",
+    "start_char": 39,
+    "end_char": 43,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 8,
+    "text": "er",
+    "lemma": "være",
+    "upos": "AUX",
+    "xpos": "verb",
+    "feats": "Mood=Ind|Tense=Pres|VerbForm=Fin",
+    "head": 10,
+    "deprel": "cop",
+    "start_char": 44,
+    "end_char": 46,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 9,
+    "text": "diskret",
+    "lemma": "diskret",
+    "upos": "ADJ",
+    "xpos": "adj",
+    "feats": "Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing",
+    "head": 10,
+    "deprel": "advmod",
+    "start_char": 47,
+    "end_char": 54,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 10,
+    "text": "plassert",
+    "lemma": "plassere",
+    "upos": "VERB",
+    "xpos": "verb",
+    "feats": "VerbForm=Part",
+    "head": 3,
+    "deprel": "acl:relcl",
+    "start_char": 55,
+    "end_char": 63,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 11,
+    "text": ",",
+    "lemma": "$,",
+    "upos": "PUNCT",
+    "xpos": "<komma>",
+    "head": 16,
+    "deprel": "punct",
+    "start_char": 64,
+    "end_char": 65,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 12,
+    "text": "og",
+    "lemma": "og",
+    "upos": "CCONJ",
+    "xpos": "konj",
+    "head": 16,
+    "deprel": "cc",
+    "start_char": 66,
+    "end_char": 68,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 13,
+    "text": "med",
+    "lemma": "med",
+    "upos": "ADP",
+    "xpos": "prep",
+    "head": 16,
+    "deprel": "case",
+    "start_char": 69,
+    "end_char": 72,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 14,
+    "text": "en",
+    "lemma": "en",
+    "upos": "DET",
+    "xpos": "det",
+    "feats": "Gender=Masc|Number=Sing|PronType=Art",
+    "head": 16,
+    "deprel": "det",
+    "start_char": 73,
+    "end_char": 75,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 15,
+    "text": "stor",
+    "lemma": "stor",
+    "upos": "ADJ",
+    "xpos": "adj",
+    "feats": "Definite=Ind|Degree=Pos|Gender=Fem,Masc|Number=Sing",
+    "head": 16,
+    "deprel": "amod",
+    "start_char": 76,
+    "end_char": 80,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 16,
+    "text": "subwoofer",
+    "lemma": "subwoof",
+    "upos": "NOUN",
+    "xpos": "subst",
+    "feats": "Definite=Ind|Gender=Masc|Number=Sing",
+    "head": 10,
+    "deprel": "conj",
+    "start_char": 81,
+    "end_char": 90,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 17,
+    "text": "inkludert",
+    "lemma": "inkludere",
+    "upos": "ADJ",
+    "xpos": "adj",
+    "feats": "Definite=Ind|Gender=Fem,Masc|Number=Sing|VerbForm=Part",
+    "head": 16,
+    "deprel": "xcomp",
+    "start_char": 91,
+    "end_char": 100,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 18,
+    "text": ",",
+    "lemma": "$,",
+    "upos": "PUNCT",
+    "xpos": "<komma>",
+    "head": 3,
+    "deprel": "punct",
+    "start_char": 101,
+    "end_char": 102,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 19,
+    "text": "da",
+    "lemma": "da",
+    "upos": "ADV",
+    "xpos": "adv",
+    "head": 20,
+    "deprel": "advmod",
+    "start_char": 103,
+    "end_char": 105,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 20,
+    "text": "snakker",
+    "lemma": "snakke",
+    "upos": "VERB",
+    "xpos": "verb",
+    "feats": "Mood=Ind|Tense=Pres|VerbForm=Fin",
+    "head": 0,
+    "deprel": "root",
+    "start_char": 106,
+    "end_char": 113,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 21,
+    "text": "vi",
+    "lemma": "vi",
+    "upos": "PRON",
+    "xpos": "pron",
+    "feats": "Animacy=Hum|Case=Nom|Number=Plur|Person=1|PronType=Prs",
+    "head": 20,
+    "deprel": "nsubj",
+    "start_char": 114,
+    "end_char": 116,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 22,
+    "text": "om",
+    "lemma": "om",
+    "upos": "ADP",
+    "xpos": "prep",
+    "head": 24,
+    "deprel": "case",
+    "start_char": 117,
+    "end_char": 119,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 23,
+    "text": "en",
+    "lemma": "en",
+    "upos": "DET",
+    "xpos": "det",
+    "feats": "Gender=Masc|Number=Sing|PronType=Art",
+    "head": 24,
+    "deprel": "det",
+    "start_char": 120,
+    "end_char": 122,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 24,
+    "text": "gutteskjerm",
+    "lemma": "gutteskjerm",
+    "upos": "NOUN",
+    "xpos": "subst",
+    "feats": "Definite=Ind|Gender=Masc|Number=Sing",
+    "head": 20,
+    "deprel": "obl",
+    "start_char": 123,
+    "end_char": 134,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 25,
+    "text": ".",
+    "lemma": "$.",
+    "upos": "PUNCT",
+    "xpos": "clb",
+    "head": 20,
+    "deprel": "punct",
+    "start_char": 135,
+    "end_char": 136,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  }
+]
+1	Med	O	med	ADP
+2	integrerte	O	integrere	ADJ
+3	høyttalere	O	høyttaler	NOUN
+4	som	O	som	SCONJ
+5	på	O	på	ADP
+6	ingen	O	ingen	DET
+7	måte	O	måte	NOUN
+8	er	O	være	AUX
+9	diskret	O	diskret	ADJ
+10	plassert	O	plassere	VERB
+11	,	O	$,	PUNCT
+12	og	O	og	CCONJ
+
+#sent_id=201911-02-02
+#text=[
+  {
+    "id": 1,
+    "text": "Eller",
+    "lemma": "eller",
+    "upos": "CCONJ",
+    "xpos": "konj",
+    "head": 2,
+    "deprel": "cc",
+    "start_char": 0,
+    "end_char": 5,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 2,
+    "text": "bedrar",
+    "lemma": "bedra",
+    "upos": "VERB",
+    "xpos": "verb",
+    "feats": "Mood=Ind|Tense=Pres|VerbForm=Fin",
+    "head": 0,
+    "deprel": "root",
+    "start_char": 6,
+    "end_char": 12,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 3,
+    "text": "skinnet",
+    "lemma": "skinn",
+    "upos": "NOUN",
+    "xpos": "subst",
+    "feats": "Definite=Def|Gender=Neut|Number=Sing",
+    "head": 2,
+    "deprel": "nsubj",
+    "start_char": 13,
+    "end_char": 20,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 4,
+    "text": "?",
+    "lemma": "$?",
+    "upos": "PUNCT",
+    "xpos": "clb",
+    "head": 2,
+    "deprel": "punct",
+    "start_char": 21,
+    "end_char": 22,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  }
+]
+1	Eller	O	eller	CCONJ
+2	bedrar	O	bedra	VERB
+3	skinnet	O	skinn	NOUN
+4	?	O	$?	PUNCT
+
+#sent_id=201911-03-01
+#text=[
+  {
+    "id": 1,
+    "text": "De",
+    "lemma": "de",
+    "upos": "DET",
+    "xpos": "det",
+    "feats": "Number=Plur|PronType=Dem",
+    "head": 3,
+    "deprel": "det",
+    "start_char": 0,
+    "end_char": 2,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 2,
+    "text": "fleste",
+    "lemma": "mange",
+    "upos": "ADJ",
+    "xpos": "adj",
+    "feats": "Definite=Def|Degree=Sup",
+    "head": 3,
+    "deprel": "amod",
+    "start_char": 3,
+    "end_char": 9,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 3,
+    "text": "skjermer",
+    "lemma": "skjerme",
+    "upos": "NOUN",
+    "xpos": "subst",
+    "feats": "Definite=Ind|Gender=Masc|Number=Plur",
+    "head": 4,
+    "deprel": "nsubj",
+    "start_char": 10,
+    "end_char": 18,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 4,
+    "text": "har",
+    "lemma": "ha",
+    "upos": "VERB",
+    "xpos": "verb",
+    "feats": "Mood=Ind|Tense=Pres|VerbForm=Fin",
+    "head": 0,
+    "deprel": "root",
+    "start_char": 19,
+    "end_char": 22,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 5,
+    "text": "et",
+    "lemma": "en",
+    "upos": "DET",
+    "xpos": "det",
+    "feats": "Gender=Neut|Number=Sing|PronType=Art",
+    "head": 7,
+    "deprel": "det",
+    "start_char": 23,
+    "end_char": 25,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 6,
+    "text": "diskret",
+    "lemma": "diskret",
+    "upos": "ADJ",
+    "xpos": "adj",
+    "feats": "Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing",
+    "head": 7,
+    "deprel": "amod",
+    "start_char": 26,
+    "end_char": 33,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 7,
+    "text": "design",
+    "lemma": "design",
+    "upos": "NOUN",
+    "xpos": "subst",
+    "feats": "Definite=Ind|Gender=Neut|Number=Sing",
+    "head": 4,
+    "deprel": "obj",
+    "start_char": 34,
+    "end_char": 40,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 8,
+    "text": ",",
+    "lemma": "$,",
+    "upos": "PUNCT",
+    "xpos": "<komma>",
+    "head": 11,
+    "deprel": "punct",
+    "start_char": 41,
+    "end_char": 42,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 9,
+    "text": "med",
+    "lemma": "med",
+    "upos": "ADP",
+    "xpos": "prep",
+    "head": 11,
+    "deprel": "case",
+    "start_char": 43,
+    "end_char": 46,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 10,
+    "text": "smale",
+    "lemma": "smal",
+    "upos": "ADJ",
+    "xpos": "adj",
+    "feats": "Degree=Pos|Number=Plur",
+    "head": 11,
+    "deprel": "amod",
+    "start_char": 47,
+    "end_char": 52,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 11,
+    "text": "rammer",
+    "lemma": "ramme",
+    "upos": "NOUN",
+    "xpos": "subst",
+    "feats": "Definite=Ind|Gender=Fem|Number=Plur",
+    "head": 7,
+    "deprel": "nmod",
+    "start_char": 53,
+    "end_char": 59,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 12,
+    "text": "og",
+    "lemma": "og",
+    "upos": "CCONJ",
+    "xpos": "konj",
+    "head": 14,
+    "deprel": "cc",
+    "start_char": 60,
+    "end_char": 62,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 13,
+    "text": "slank",
+    "lemma": "slank",
+    "upos": "ADJ",
+    "xpos": "adj",
+    "feats": "Definite=Ind|Degree=Pos|Gender=Fem,Masc|Number=Sing",
+    "head": 14,
+    "deprel": "amod",
+    "start_char": 63,
+    "end_char": 68,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 14,
+    "text": "fot",
+    "lemma": "fot",
+    "upos": "NOUN",
+    "xpos": "subst",
+    "feats": "Definite=Ind|Gender=Masc|Number=Sing",
+    "head": 11,
+    "deprel": "conj",
+    "start_char": 69,
+    "end_char": 72,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 15,
+    "text": ".",
+    "lemma": "$.",
+    "upos": "PUNCT",
+    "xpos": "clb",
+    "head": 4,
+    "deprel": "punct",
+    "start_char": 73,
+    "end_char": 74,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  }
+]
+1	De	O	de	DET
+2	fleste	O	mange	ADJ
+3	skjermer	O	skjerme	NOUN
+4	har	O	ha	VERB
+5	et	O	en	DET
+6	diskret	O	diskret	ADJ
+7	design	O	design	NOUN
+8	,	O	$,	PUNCT
+9	med	O	med	ADP
+10	smale	O	smal	ADJ
+11	rammer	O	ramme	NOUN
+12	og	O	og	CCONJ
+
+#sent_id=201911-03-02
+#text=[
+  {
+    "id": 1,
+    "text": "Men",
+    "lemma": "men",
+    "upos": "CCONJ",
+    "xpos": "konj",
+    "head": 9,
+    "deprel": "cc",
+    "start_char": 0,
+    "end_char": 3,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 2,
+    "text": "190G6",
+    "lemma": "190G6",
+    "upos": "NUM",
+    "xpos": "det",
+    "feats": "NumType=Card|Number=Plur",
+    "head": 9,
+    "deprel": "nsubj",
+    "start_char": 4,
+    "end_char": 9,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 3,
+    "text": "fra",
+    "lemma": "fra",
+    "upos": "ADP",
+    "xpos": "prep",
+    "head": 4,
+    "deprel": "case",
+    "start_char": 10,
+    "end_char": 13,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Philips",
+    "lemma": "Philip",
+    "upos": "PROPN",
+    "xpos": "subst",
+    "head": 2,
+    "deprel": "nmod",
+    "start_char": 14,
+    "end_char": 21,
+    "ner": "S-ORG",
+    "multi_ner": [
+      "S-ORG"
+    ]
+  },
+  {
+    "id": 5,
+    "text": "er",
+    "lemma": "være",
+    "upos": "AUX",
+    "xpos": "verb",
+    "feats": "Mood=Ind|Tense=Pres|VerbForm=Fin",
+    "head": 9,
+    "deprel": "cop",
+    "start_char": 22,
+    "end_char": 24,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 6,
+    "text": "en",
+    "lemma": "en",
+    "upos": "DET",
+    "xpos": "det",
+    "feats": "Gender=Masc|Number=Sing|PronType=Art",
+    "head": 9,
+    "deprel": "det",
+    "start_char": 25,
+    "end_char": 27,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 7,
+    "text": "helt",
+    "lemma": "hel",
+    "upos": "ADJ",
+    "xpos": "adj",
+    "feats": "Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing",
+    "head": 8,
+    "deprel": "advmod",
+    "start_char": 28,
+    "end_char": 32,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 8,
+    "text": "annen",
+    "lemma": "annen",
+    "upos": "DET",
+    "xpos": "det",
+    "feats": "Definite=Ind|Gender=Masc|Number=Sing|PronType=Dem",
+    "head": 9,
+    "deprel": "det",
+    "start_char": 33,
+    "end_char": 38,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 9,
+    "text": "historie",
+    "lemma": "historie",
+    "upos": "NOUN",
+    "xpos": "subst",
+    "feats": "Definite=Ind|Gender=Masc|Number=Sing",
+    "head": 0,
+    "deprel": "root",
+    "start_char": 39,
+    "end_char": 47,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 10,
+    "text": ".",
+    "lemma": "$.",
+    "upos": "PUNCT",
+    "xpos": "clb",
+    "head": 9,
+    "deprel": "punct",
+    "start_char": 48,
+    "end_char": 49,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  }
+]
+1	Men	O	men	CCONJ
+2	190G6	O	190G6	NUM
+3	fra	O	fra	ADP
+4	Philips	O	Philip	PROPN
+5	er	O	være	AUX
+6	en	O	en	DET
+7	helt	O	hel	ADJ
+8	annen	O	annen	DET
+9	historie	O	historie	NOUN
+10	.	O	$.	PUNCT
+
+#sent_id=201911-03-03
+#text=[
+  {
+    "id": 1,
+    "text": "Den",
+    "lemma": "den",
+    "upos": "PRON",
+    "xpos": "pron",
+    "feats": "Gender=Fem,Masc|Number=Sing|Person=3|PronType=Prs",
+    "head": 2,
+    "deprel": "nsubj",
+    "start_char": 0,
+    "end_char": 3,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 2,
+    "text": "har",
+    "lemma": "ha",
+    "upos": "VERB",
+    "xpos": "verb",
+    "feats": "Mood=Ind|Tense=Pres|VerbForm=Fin",
+    "head": 0,
+    "deprel": "root",
+    "start_char": 4,
+    "end_char": 7,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 3,
+    "text": "et",
+    "lemma": "en",
+    "upos": "DET",
+    "xpos": "det",
+    "feats": "Gender=Neut|Number=Sing|PronType=Art",
+    "head": 4,
+    "deprel": "det",
+    "start_char": 8,
+    "end_char": 10,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 4,
+    "text": "utseende",
+    "lemma": "utseende",
+    "upos": "NOUN",
+    "xpos": "subst",
+    "feats": "Definite=Ind|Gender=Neut|Number=Sing",
+    "head": 2,
+    "deprel": "obj",
+    "start_char": 11,
+    "end_char": 19,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 5,
+    "text": "som",
+    "lemma": "som",
+    "upos": "SCONJ",
+    "xpos": "sbu",
+    "head": 6,
+    "deprel": "mark",
+    "start_char": 20,
+    "end_char": 23,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 6,
+    "text": "krever",
+    "lemma": "kreve",
+    "upos": "VERB",
+    "xpos": "verb",
+    "feats": "Mood=Ind|Tense=Pres|VerbForm=Fin",
+    "head": 4,
+    "deprel": "acl:relcl",
+    "start_char": 24,
+    "end_char": 30,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 7,
+    "text": "oppmerksomhet",
+    "lemma": "oppmerksomhet",
+    "upos": "NOUN",
+    "xpos": "subst",
+    "feats": "Definite=Ind|Gender=Fem|Number=Sing",
+    "head": 6,
+    "deprel": "obj",
+    "start_char": 31,
+    "end_char": 44,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 8,
+    "text": ",",
+    "lemma": "$,",
+    "upos": "PUNCT",
+    "xpos": "<komma>",
+    "head": 12,
+    "deprel": "punct",
+    "start_char": 45,
+    "end_char": 46,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 9,
+    "text": "med",
+    "lemma": "med",
+    "upos": "ADP",
+    "xpos": "prep",
+    "head": 12,
+    "deprel": "case",
+    "start_char": 47,
+    "end_char": 50,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 10,
+    "text": "glinsende",
+    "lemma": "glinse",
+    "upos": "ADJ",
+    "xpos": "adj",
+    "feats": "VerbForm=Part",
+    "head": 12,
+    "deprel": "amod",
+    "start_char": 51,
+    "end_char": 60,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 11,
+    "text": "svart",
+    "lemma": "svart",
+    "upos": "ADJ",
+    "xpos": "adj",
+    "feats": "Definite=Ind|Degree=Pos|Gender=Fem,Masc|Number=Sing",
+    "head": 12,
+    "deprel": "amod",
+    "start_char": 61,
+    "end_char": 66,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 12,
+    "text": "ramme",
+    "lemma": "ramme",
+    "upos": "NOUN",
+    "xpos": "subst",
+    "feats": "Definite=Ind|Gender=Masc|Number=Sing",
+    "head": 7,
+    "deprel": "nmod",
+    "start_char": 67,
+    "end_char": 72,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 13,
+    "text": ",",
+    "lemma": "$,",
+    "upos": "PUNCT",
+    "xpos": "<komma>",
+    "head": 14,
+    "deprel": "punct",
+    "start_char": 73,
+    "end_char": 74,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 14,
+    "text": "glansbelegg",
+    "lemma": "glansbelegg",
+    "upos": "NOUN",
+    "xpos": "subst",
+    "feats": "Definite=Ind|Gender=Neut|Number=Sing",
+    "head": 12,
+    "deprel": "conj",
+    "start_char": 75,
+    "end_char": 86,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 15,
+    "text": "på",
+    "lemma": "på",
+    "upos": "ADP",
+    "xpos": "prep",
+    "head": 16,
+    "deprel": "case",
+    "start_char": 87,
+    "end_char": 89,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 16,
+    "text": "skjermflaten",
+    "lemma": "skjermflat",
+    "upos": "NOUN",
+    "xpos": "subst",
+    "feats": "Definite=Def|Gender=Masc|Number=Sing",
+    "head": 14,
+    "deprel": "nmod",
+    "start_char": 90,
+    "end_char": 102,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 17,
+    "text": "og",
+    "lemma": "og",
+    "upos": "CCONJ",
+    "xpos": "konj",
+    "head": 20,
+    "deprel": "cc",
+    "start_char": 103,
+    "end_char": 105,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 18,
+    "text": "store",
+    "lemma": "stor",
+    "upos": "ADJ",
+    "xpos": "adj",
+    "feats": "Degree=Pos|Number=Plur",
+    "head": 20,
+    "deprel": "amod",
+    "start_char": 106,
+    "end_char": 111,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 19,
+    "text": "sølvfargede",
+    "lemma": "sølvfarget",
+    "upos": "ADJ",
+    "xpos": "adj",
+    "feats": "Number=Plur|VerbForm=Part",
+    "head": 20,
+    "deprel": "amod",
+    "start_char": 112,
+    "end_char": 123,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 20,
+    "text": "sidepaneler",
+    "lemma": "sidepanel",
+    "upos": "NOUN",
+    "xpos": "subst",
+    "feats": "Definite=Ind|Gender=Masc|Number=Plur",
+    "head": 12,
+    "deprel": "conj",
+    "start_char": 124,
+    "end_char": 135,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 21,
+    "text": "med",
+    "lemma": "med",
+    "upos": "ADP",
+    "xpos": "prep",
+    "head": 24,
+    "deprel": "case",
+    "start_char": 136,
+    "end_char": 139,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 22,
+    "text": "fire",
+    "lemma": "fire",
+    "upos": "NUM",
+    "xpos": "det",
+    "feats": "NumType=Card|Number=Plur",
+    "head": 24,
+    "deprel": "nummod",
+    "start_char": 140,
+    "end_char": 144,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 23,
+    "text": "innfelte",
+    "lemma": "innfelle",
+    "upos": "ADJ",
+    "xpos": "adj",
+    "feats": "Number=Plur|VerbForm=Part",
+    "head": 24,
+    "deprel": "amod",
+    "start_char": 145,
+    "end_char": 153,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 24,
+    "text": "høyttalere",
+    "lemma": "høyttaler",
+    "upos": "NOUN",
+    "xpos": "subst",
+    "feats": "Definite=Ind|Gender=Masc|Number=Plur",
+    "head": 20,
+    "deprel": "nmod",
+    "start_char": 154,
+    "end_char": 164,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 25,
+    "text": "med",
+    "lemma": "med",
+    "upos": "ADP",
+    "xpos": "prep",
+    "head": 27,
+    "deprel": "case",
+    "start_char": 165,
+    "end_char": 168,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 26,
+    "text": "svart",
+    "lemma": "svart",
+    "upos": "ADJ",
+    "xpos": "adj",
+    "feats": "Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing",
+    "head": 27,
+    "deprel": "amod",
+    "start_char": 169,
+    "end_char": 174,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 27,
+    "text": "deksel",
+    "lemma": "deksel",
+    "upos": "NOUN",
+    "xpos": "subst",
+    "feats": "Definite=Ind|Gender=Neut|Number=Sing",
+    "head": 24,
+    "deprel": "nmod",
+    "start_char": 175,
+    "end_char": 181,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 28,
+    "text": ".",
+    "lemma": "$.",
+    "upos": "PUNCT",
+    "xpos": "clb",
+    "head": 2,
+    "deprel": "punct",
+    "start_char": 182,
+    "end_char": 183,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  }
+]
+1	Den	O	den	PRON
+2	har	O	ha	VERB
+3	et	O	en	DET
+4	utseende	O	utseende	NOUN
+5	som	O	som	SCONJ
+6	krever	O	kreve	VERB
+7	oppmerksomhet	O	oppmerksomhet	NOUN
+8	,	O	$,	PUNCT
+9	med	O	med	ADP
+10	glinsende	O	glinse	ADJ
+11	svart	O	svart	ADJ
+12	ramme	O	ramme	NOUN
+
+#sent_id=201911-04-01
+#text=[
+  {
+    "id": 1,
+    "text": "LES",
+    "lemma": "lete",
+    "upos": "VERB",
+    "xpos": "verb",
+    "feats": "Mood=Imp|VerbForm=Fin",
+    "head": 0,
+    "deprel": "root",
+    "start_char": 0,
+    "end_char": 3,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 2,
+    "text": "OGSÅ",
+    "lemma": "også",
+    "upos": "ADV",
+    "xpos": "adv",
+    "head": 1,
+    "deprel": "advmod",
+    "start_char": 4,
+    "end_char": 8,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 3,
+    "text": ":",
+    "lemma": "$:",
+    "upos": "PUNCT",
+    "xpos": "clb",
+    "head": 1,
+    "deprel": "punct",
+    "start_char": 9,
+    "end_char": 10,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  }
+]
+1	LES	O	lete	VERB
+2	OGSÅ	O	også	ADV
+3	:	O	$:	PUNCT
+
+#sent_id=201911-05-01
+#text=[
+  {
+    "id": 1,
+    "text": "Foten",
+    "lemma": "fot",
+    "upos": "NOUN",
+    "xpos": "subst",
+    "feats": "Definite=Def|Gender=Masc|Number=Sing",
+    "head": 2,
+    "deprel": "nsubj",
+    "start_char": 0,
+    "end_char": 5,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 2,
+    "text": "har",
+    "lemma": "ha",
+    "upos": "VERB",
+    "xpos": "verb",
+    "feats": "Mood=Ind|Tense=Pres|VerbForm=Fin",
+    "head": 0,
+    "deprel": "root",
+    "start_char": 6,
+    "end_char": 9,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 3,
+    "text": "en",
+    "lemma": "en",
+    "upos": "DET",
+    "xpos": "det",
+    "feats": "Gender=Masc|Number=Sing|PronType=Art",
+    "head": 7,
+    "deprel": "det",
+    "start_char": 10,
+    "end_char": 12,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 4,
+    "text": "stor",
+    "lemma": "stor",
+    "upos": "ADJ",
+    "xpos": "adj",
+    "feats": "Definite=Ind|Degree=Pos|Gender=Fem,Masc|Number=Sing",
+    "head": 7,
+    "deprel": "amod",
+    "start_char": 13,
+    "end_char": 17,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 5,
+    "text": "og",
+    "lemma": "og",
+    "upos": "CCONJ",
+    "xpos": "konj",
+    "head": 6,
+    "deprel": "cc",
+    "start_char": 18,
+    "end_char": 20,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 6,
+    "text": "blank",
+    "lemma": "blank",
+    "upos": "ADJ",
+    "xpos": "adj",
+    "feats": "Definite=Ind|Degree=Pos|Gender=Fem,Masc|Number=Sing",
+    "head": 4,
+    "deprel": "conj",
+    "start_char": 21,
+    "end_char": 26,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 7,
+    "text": "søyle",
+    "lemma": "søyle",
+    "upos": "NOUN",
+    "xpos": "subst",
+    "feats": "Definite=Ind|Gender=Masc|Number=Sing",
+    "head": 2,
+    "deprel": "obj",
+    "start_char": 27,
+    "end_char": 32,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 8,
+    "text": ",",
+    "lemma": "$,",
+    "upos": "PUNCT",
+    "xpos": "<komma>",
+    "head": 11,
+    "deprel": "punct",
+    "start_char": 33,
+    "end_char": 34,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 9,
+    "text": "og",
+    "lemma": "og",
+    "upos": "CCONJ",
+    "xpos": "konj",
+    "head": 11,
+    "deprel": "cc",
+    "start_char": 35,
+    "end_char": 37,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 10,
+    "text": "det",
+    "lemma": "det",
+    "upos": "PRON",
+    "xpos": "pron",
+    "feats": "Gender=Neut|Number=Sing|Person=3|PronType=Prs",
+    "head": 11,
+    "deprel": "expl",
+    "start_char": 38,
+    "end_char": 41,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 11,
+    "text": "er",
+    "lemma": "være",
+    "upos": "VERB",
+    "xpos": "verb",
+    "feats": "Mood=Ind|Tense=Pres|VerbForm=Fin",
+    "head": 2,
+    "deprel": "conj",
+    "start_char": 42,
+    "end_char": 44,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 12,
+    "text": "store",
+    "lemma": "stor",
+    "upos": "ADJ",
+    "xpos": "adj",
+    "feats": "Degree=Pos|Number=Plur",
+    "head": 13,
+    "deprel": "amod",
+    "start_char": 45,
+    "end_char": 50,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 13,
+    "text": "knapper",
+    "lemma": "knapp",
+    "upos": "NOUN",
+    "xpos": "subst",
+    "feats": "Definite=Ind|Gender=Masc|Number=Plur",
+    "head": 11,
+    "deprel": "nsubj",
+    "start_char": 51,
+    "end_char": 58,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 14,
+    "text": "og",
+    "lemma": "og",
+    "upos": "CCONJ",
+    "xpos": "konj",
+    "head": 16,
+    "deprel": "cc",
+    "start_char": 59,
+    "end_char": 61,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 15,
+    "text": "blå",
+    "lemma": "blå",
+    "upos": "ADJ",
+    "xpos": "adj",
+    "feats": "Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing",
+    "head": 16,
+    "deprel": "amod",
+    "start_char": 62,
+    "end_char": 65,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 16,
+    "text": "lys",
+    "lemma": "lys",
+    "upos": "NOUN",
+    "xpos": "subst",
+    "feats": "Definite=Ind|Gender=Neut|Number=Sing",
+    "head": 13,
+    "deprel": "conj",
+    "start_char": 66,
+    "end_char": 69,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 17,
+    "text": ".",
+    "lemma": "$.",
+    "upos": "PUNCT",
+    "xpos": "clb",
+    "head": 2,
+    "deprel": "punct",
+    "start_char": 70,
+    "end_char": 71,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  }
+]
+1	Foten	O	fot	NOUN
+2	har	O	ha	VERB
+3	en	O	en	DET
+4	stor	O	stor	ADJ
+5	og	O	og	CCONJ
+6	blank	O	blank	ADJ
+7	søyle	O	søyle	NOUN
+8	,	O	$,	PUNCT
+9	og	O	og	CCONJ
+10	det	O	det	PRON
+11	er	O	være	VERB
+12	store	O	stor	ADJ
+
+#sent_id=201911-06-01
+#text=[
+  {
+    "id": 1,
+    "text": "Baksiden",
+    "lemma": "bakside",
+    "upos": "NOUN",
+    "xpos": "subst",
+    "feats": "Definite=Def|Gender=Masc|Number=Sing",
+    "head": 3,
+    "deprel": "nsubj",
+    "start_char": 0,
+    "end_char": 8,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 2,
+    "text": "er",
+    "lemma": "være",
+    "upos": "AUX",
+    "xpos": "verb",
+    "feats": "Mood=Ind|Tense=Pres|VerbForm=Fin",
+    "head": 3,
+    "deprel": "cop",
+    "start_char": 9,
+    "end_char": 11,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 3,
+    "text": "sort",
+    "lemma": "sort",
+    "upos": "ADJ",
+    "xpos": "adj",
+    "feats": "Definite=Ind|Degree=Pos|Gender=Fem,Masc|Number=Sing",
+    "head": 0,
+    "deprel": "root",
+    "start_char": 12,
+    "end_char": 16,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 4,
+    "text": ",",
+    "lemma": "$,",
+    "upos": "PUNCT",
+    "xpos": "<komma>",
+    "head": 5,
+    "deprel": "punct",
+    "start_char": 17,
+    "end_char": 18,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 5,
+    "text": "blank",
+    "lemma": "blank",
+    "upos": "ADJ",
+    "xpos": "adj",
+    "feats": "Definite=Ind|Degree=Pos|Gender=Fem,Masc|Number=Sing",
+    "head": 3,
+    "deprel": "conj",
+    "start_char": 19,
+    "end_char": 24,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 6,
+    "text": "og",
+    "lemma": "og",
+    "upos": "CCONJ",
+    "xpos": "konj",
+    "head": 7,
+    "deprel": "cc",
+    "start_char": 25,
+    "end_char": 27,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 7,
+    "text": "skinnende",
+    "lemma": "skinne",
+    "upos": "ADJ",
+    "xpos": "adj",
+    "feats": "VerbForm=Part",
+    "head": 3,
+    "deprel": "conj",
+    "start_char": 28,
+    "end_char": 37,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 8,
+    "text": ",",
+    "lemma": "$,",
+    "upos": "PUNCT",
+    "xpos": "<komma>",
+    "head": 11,
+    "deprel": "punct",
+    "start_char": 38,
+    "end_char": 39,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 9,
+    "text": "med",
+    "lemma": "med",
+    "upos": "ADP",
+    "xpos": "prep",
+    "head": 11,
+    "deprel": "case",
+    "start_char": 40,
+    "end_char": 43,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 10,
+    "text": "et",
+    "lemma": "en",
+    "upos": "DET",
+    "xpos": "det",
+    "feats": "Gender=Neut|Number=Sing|PronType=Art",
+    "head": 11,
+    "deprel": "det",
+    "start_char": 44,
+    "end_char": 46,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 11,
+    "text": "deksel",
+    "lemma": "deksel",
+    "upos": "NOUN",
+    "xpos": "subst",
+    "feats": "Definite=Ind|Gender=Neut|Number=Sing",
+    "head": 3,
+    "deprel": "obl",
+    "start_char": 47,
+    "end_char": 53,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 12,
+    "text": "som",
+    "lemma": "som",
+    "upos": "SCONJ",
+    "xpos": "sbu",
+    "head": 13,
+    "deprel": "mark",
+    "start_char": 54,
+    "end_char": 57,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 13,
+    "text": "skjuler",
+    "lemma": "skjule",
+    "upos": "VERB",
+    "xpos": "verb",
+    "feats": "Mood=Ind|Tense=Pres|VerbForm=Fin",
+    "head": 11,
+    "deprel": "acl:relcl",
+    "start_char": 58,
+    "end_char": 65,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 14,
+    "text": "kontakter",
+    "lemma": "kontakt",
+    "upos": "NOUN",
+    "xpos": "subst",
+    "feats": "Definite=Ind|Gender=Masc|Number=Plur",
+    "head": 13,
+    "deprel": "obj",
+    "start_char": 66,
+    "end_char": 75,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 15,
+    "text": "og",
+    "lemma": "og",
+    "upos": "CCONJ",
+    "xpos": "konj",
+    "head": 16,
+    "deprel": "cc",
+    "start_char": 76,
+    "end_char": 78,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 16,
+    "text": "kabler",
+    "lemma": "kabfel",
+    "upos": "NOUN",
+    "xpos": "subst",
+    "feats": "Definite=Ind|Gender=Masc|Number=Plur",
+    "head": 14,
+    "deprel": "conj",
+    "start_char": 79,
+    "end_char": 85,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 17,
+    "text": ".",
+    "lemma": "$.",
+    "upos": "PUNCT",
+    "xpos": "clb",
+    "head": 3,
+    "deprel": "punct",
+    "start_char": 86,
+    "end_char": 87,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  }
+]
+1	Baksiden	B-targ-Positive	bakside	NOUN
+2	er	O	være	AUX
+3	sort	O	sort	ADJ
+4	,	O	$,	PUNCT
+5	blank	O	blank	ADJ
+6	og	O	og	CCONJ
+7	skinnende	O	skinne	ADJ
+8	,	O	$,	PUNCT
+9	med	O	med	ADP
+10	et	O	en	DET
+11	deksel	B-targ-Positive	deksel	NOUN
+12	som	O	som	SCONJ
+
+#sent_id=201911-06-02
+#text=[
+  {
+    "id": 1,
+    "text": "De",
+    "lemma": "de",
+    "upos": "DET",
+    "xpos": "det",
+    "feats": "Number=Plur|PronType=Dem",
+    "head": 3,
+    "deprel": "det",
+    "start_char": 0,
+    "end_char": 2,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 2,
+    "text": "fire",
+    "lemma": "fire",
+    "upos": "NUM",
+    "xpos": "det",
+    "feats": "NumType=Card|Number=Plur",
+    "head": 3,
+    "deprel": "nummod",
+    "start_char": 3,
+    "end_char": 7,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 3,
+    "text": "høyttalerbrønnene",
+    "lemma": "høyttalerbrønn",
+    "upos": "NOUN",
+    "xpos": "subst",
+    "feats": "Definite=Def|Gender=Masc|Number=Plur",
+    "head": 4,
+    "deprel": "nsubj",
+    "start_char": 8,
+    "end_char": 25,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 4,
+    "text": "stikker",
+    "lemma": "stikke",
+    "upos": "VERB",
+    "xpos": "verb",
+    "feats": "Mood=Ind|Tense=Pres|VerbForm=Fin",
+    "head": 0,
+    "deprel": "root",
+    "start_char": 26,
+    "end_char": 33,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 5,
+    "text": "tydelig",
+    "lemma": "tydelig",
+    "upos": "ADJ",
+    "xpos": "adj",
+    "feats": "Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing",
+    "head": 4,
+    "deprel": "advmod",
+    "start_char": 34,
+    "end_char": 41,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 6,
+    "text": "ut",
+    "lemma": "ut",
+    "upos": "ADV",
+    "xpos": "prep",
+    "head": 4,
+    "deprel": "advmod",
+    "start_char": 42,
+    "end_char": 44,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 7,
+    "text": "-",
+    "lemma": "$-",
+    "upos": "PUNCT",
+    "xpos": "<strek>",
+    "head": 9,
+    "deprel": "punct",
+    "start_char": 45,
+    "end_char": 46,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 8,
+    "text": "her",
+    "lemma": "her",
+    "upos": "ADV",
+    "xpos": "prep",
+    "head": 9,
+    "deprel": "advmod",
+    "start_char": 47,
+    "end_char": 50,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 9,
+    "text": "er",
+    "lemma": "være",
+    "upos": "VERB",
+    "xpos": "verb",
+    "feats": "Mood=Ind|Tense=Pres|VerbForm=Fin",
+    "head": 4,
+    "deprel": "conj",
+    "start_char": 51,
+    "end_char": 53,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 10,
+    "text": "det",
+    "lemma": "det",
+    "upos": "PRON",
+    "xpos": "pron",
+    "feats": "Gender=Neut|Number=Sing|Person=3|PronType=Prs",
+    "head": 9,
+    "deprel": "expl",
+    "start_char": 54,
+    "end_char": 57,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 11,
+    "text": "ikke",
+    "lemma": "ikke",
+    "upos": "PART",
+    "xpos": "adv",
+    "feats": "Polarity=Neg",
+    "head": 9,
+    "deprel": "advmod",
+    "start_char": 58,
+    "end_char": 62,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 12,
+    "text": "snakk",
+    "lemma": "snakk",
+    "upos": "NOUN",
+    "xpos": "subst",
+    "feats": "Definite=Ind|Gender=Neut|Number=Sing",
+    "head": 9,
+    "deprel": "nsubj",
+    "start_char": 63,
+    "end_char": 68,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 13,
+    "text": "om",
+    "lemma": "om",
+    "upos": "ADP",
+    "xpos": "prep",
+    "head": 15,
+    "deprel": "case",
+    "start_char": 69,
+    "end_char": 71,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 14,
+    "text": "å",
+    "lemma": "å",
+    "upos": "PART",
+    "xpos": "inf-merke",
+    "head": 15,
+    "deprel": "mark",
+    "start_char": 72,
+    "end_char": 73,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 15,
+    "text": "gjemme",
+    "lemma": "gjemme",
+    "upos": "VERB",
+    "xpos": "verb",
+    "feats": "VerbForm=Inf",
+    "head": 12,
+    "deprel": "acl",
+    "start_char": 74,
+    "end_char": 80,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 16,
+    "text": "noe",
+    "lemma": "noe",
+    "upos": "PRON",
+    "xpos": "pron",
+    "feats": "Gender=Neut|Number=Sing|Person=3|PronType=Ind,Prs",
+    "head": 15,
+    "deprel": "obj",
+    "start_char": 81,
+    "end_char": 84,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 17,
+    "text": ".",
+    "lemma": "$.",
+    "upos": "PUNCT",
+    "xpos": "clb",
+    "head": 4,
+    "deprel": "punct",
+    "start_char": 85,
+    "end_char": 86,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  }
+]
+1	De	O	de	DET
+2	fire	O	fire	NUM
+3	høyttalerbrønnene	O	høyttalerbrønn	NOUN
+4	stikker	O	stikke	VERB
+5	tydelig	O	tydelig	ADJ
+6	ut	O	ut	ADV
+7	-	O	$-	PUNCT
+8	her	O	her	ADV
+9	er	O	være	VERB
+10	det	O	det	PRON
+11	ikke	O	ikke	PART
+12	snakk	O	snakk	NOUN
+
+#sent_id=201911-07-01
+#text=[
+  {
+    "id": 1,
+    "text": "Skjermen",
+    "lemma": "skjerm",
+    "upos": "NOUN",
+    "xpos": "subst",
+    "feats": "Definite=Def|Gender=Masc|Number=Sing",
+    "head": 6,
+    "deprel": "nsubj",
+    "start_char": 0,
+    "end_char": 8,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 2,
+    "text": "er",
+    "lemma": "være",
+    "upos": "AUX",
+    "xpos": "verb",
+    "feats": "Mood=Ind|Tense=Pres|VerbForm=Fin",
+    "head": 6,
+    "deprel": "cop",
+    "start_char": 9,
+    "end_char": 11,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 3,
+    "text": "helt",
+    "lemma": "hel",
+    "upos": "ADJ",
+    "xpos": "adj",
+    "feats": "Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing",
+    "head": 4,
+    "deprel": "advmod",
+    "start_char": 12,
+    "end_char": 16,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 4,
+    "text": "klart",
+    "lemma": "klar",
+    "upos": "ADJ",
+    "xpos": "adj",
+    "feats": "Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing",
+    "head": 6,
+    "deprel": "advmod",
+    "start_char": 17,
+    "end_char": 22,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 5,
+    "text": "visuelt",
+    "lemma": "visuell",
+    "upos": "ADJ",
+    "xpos": "adj",
+    "feats": "Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing",
+    "head": 6,
+    "deprel": "advmod",
+    "start_char": 23,
+    "end_char": 30,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 6,
+    "text": "utfordrende",
+    "lemma": "utfordrende",
+    "upos": "ADJ",
+    "xpos": "adj",
+    "feats": "Definite=Ind|Degree=Pos|Gender=Fem,Masc|Number=Sing",
+    "head": 0,
+    "deprel": "root",
+    "start_char": 31,
+    "end_char": 42,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 7,
+    "text": ",",
+    "lemma": "$,",
+    "upos": "PUNCT",
+    "xpos": "<komma>",
+    "head": 10,
+    "deprel": "punct",
+    "start_char": 43,
+    "end_char": 44,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 8,
+    "text": "noen",
+    "lemma": "noen",
+    "upos": "PRON",
+    "xpos": "pron",
+    "feats": "Gender=Fem,Masc|Number=Sing|Person=3|PronType=Ind,Prs",
+    "head": 10,
+    "deprel": "nsubj",
+    "start_char": 45,
+    "end_char": 49,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 9,
+    "text": "vil",
+    "lemma": "ville",
+    "upos": "AUX",
+    "xpos": "verb",
+    "feats": "Mood=Ind|Tense=Pres|VerbForm=Fin",
+    "head": 10,
+    "deprel": "aux",
+    "start_char": 50,
+    "end_char": 53,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 10,
+    "text": "synes",
+    "lemma": "synes",
+    "upos": "VERB",
+    "xpos": "verb",
+    "feats": "VerbForm=Inf",
+    "head": 6,
+    "deprel": "conj",
+    "start_char": 54,
+    "end_char": 59,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 11,
+    "text": "den",
+    "lemma": "den",
+    "upos": "PRON",
+    "xpos": "pron",
+    "feats": "Gender=Fem,Masc|Number=Sing|Person=3|PronType=Prs",
+    "head": 13,
+    "deprel": "nsubj",
+    "start_char": 60,
+    "end_char": 63,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 12,
+    "text": "er",
+    "lemma": "være",
+    "upos": "AUX",
+    "xpos": "verb",
+    "feats": "Mood=Ind|Tense=Pres|VerbForm=Fin",
+    "head": 13,
+    "deprel": "cop",
+    "start_char": 64,
+    "end_char": 66,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 13,
+    "text": "overharry",
+    "lemma": "overharry",
+    "upos": "ADJ",
+    "xpos": "adj",
+    "feats": "Definite=Ind|Degree=Pos|Gender=Fem,Masc|Number=Sing",
+    "head": 10,
+    "deprel": "ccomp",
+    "start_char": 67,
+    "end_char": 76,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 14,
+    "text": ",",
+    "lemma": "$,",
+    "upos": "PUNCT",
+    "xpos": "<komma>",
+    "head": 17,
+    "deprel": "punct",
+    "start_char": 77,
+    "end_char": 78,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 15,
+    "text": "andre",
+    "lemma": "annen",
+    "upos": "DET",
+    "xpos": "det",
+    "feats": "Number=Plur|PronType=Dem",
+    "head": 17,
+    "deprel": "nsubj",
+    "start_char": 79,
+    "end_char": 84,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 16,
+    "text": "vil",
+    "lemma": "ville",
+    "upos": "AUX",
+    "xpos": "verb",
+    "feats": "Mood=Ind|Tense=Pres|VerbForm=Fin",
+    "head": 17,
+    "deprel": "aux",
+    "start_char": 85,
+    "end_char": 88,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 17,
+    "text": "bli",
+    "lemma": "bli",
+    "upos": "VERB",
+    "xpos": "verb",
+    "feats": "VerbForm=Inf",
+    "head": 6,
+    "deprel": "conj",
+    "start_char": 89,
+    "end_char": 92,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 18,
+    "text": "begeistret",
+    "lemma": "begeistre",
+    "upos": "ADJ",
+    "xpos": "adj",
+    "feats": "Definite=Ind|Gender=Fem,Masc|Number=Sing|VerbForm=Part",
+    "head": 17,
+    "deprel": "xcomp",
+    "start_char": 93,
+    "end_char": 103,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 19,
+    "text": ".",
+    "lemma": "$.",
+    "upos": "PUNCT",
+    "xpos": "clb",
+    "head": 6,
+    "deprel": "punct",
+    "start_char": 104,
+    "end_char": 105,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  }
+]
+1	Skjermen	B-targ-Positive	skjerm	NOUN
+2	er	O	være	AUX
+3	helt	O	hel	ADJ
+4	klart	O	klar	ADJ
+5	visuelt	O	visuell	ADJ
+6	utfordrende	O	utfordrende	ADJ
+7	,	O	$,	PUNCT
+8	noen	O	noen	PRON
+9	vil	O	ville	AUX
+10	synes	O	synes	VERB
+11	den	O	den	PRON
+12	er	O	være	AUX
+
+#sent_id=201911-07-02
+#text=[
+  {
+    "id": 1,
+    "text": "Likegyldig",
+    "lemma": "likegyldig",
+    "upos": "ADJ",
+    "xpos": "adj",
+    "feats": "Definite=Ind|Degree=Pos|Gender=Fem,Masc|Number=Sing",
+    "head": 5,
+    "deprel": "advmod",
+    "start_char": 0,
+    "end_char": 10,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 2,
+    "text": "er",
+    "lemma": "være",
+    "upos": "AUX",
+    "xpos": "verb",
+    "feats": "Mood=Ind|Tense=Pres|VerbForm=Fin",
+    "head": 5,
+    "deprel": "cop",
+    "start_char": 11,
+    "end_char": 13,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 3,
+    "text": "det",
+    "lemma": "det",
+    "upos": "PRON",
+    "xpos": "pron",
+    "feats": "Gender=Neut|Number=Sing|Person=3|PronType=Prs",
+    "head": 5,
+    "deprel": "expl",
+    "start_char": 14,
+    "end_char": 17,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 4,
+    "text": "uansett",
+    "lemma": "uansett",
+    "upos": "ADV",
+    "xpos": "prep",
+    "head": 5,
+    "deprel": "advmod",
+    "start_char": 18,
+    "end_char": 25,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 5,
+    "text": "vanskelig",
+    "lemma": "vanskelig",
+    "upos": "ADJ",
+    "xpos": "adj",
+    "feats": "Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing",
+    "head": 0,
+    "deprel": "root",
+    "start_char": 26,
+    "end_char": 35,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 6,
+    "text": "å",
+    "lemma": "å",
+    "upos": "PART",
+    "xpos": "inf-merke",
+    "head": 7,
+    "deprel": "mark",
+    "start_char": 36,
+    "end_char": 37,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 7,
+    "text": "være",
+    "lemma": "være",
+    "upos": "VERB",
+    "xpos": "verb",
+    "feats": "VerbForm=Inf",
+    "head": 5,
+    "deprel": "csubj",
+    "start_char": 38,
+    "end_char": 42,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 8,
+    "text": ".",
+    "lemma": "$.",
+    "upos": "PUNCT",
+    "xpos": "clb",
+    "head": 5,
+    "deprel": "punct",
+    "start_char": 43,
+    "end_char": 44,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  }
+]
+1	Likegyldig	O	likegyldig	ADJ
+2	er	O	være	AUX
+3	det	O	det	PRON
+4	uansett	O	uansett	ADV
+5	vanskelig	O	vanskelig	ADJ
+6	å	O	å	PART
+7	være	O	være	VERB
+8	.	O	$.	PUNCT
+
+#sent_id=201911-08-01
+#text=[
+  {
+    "id": 1,
+    "text": "God",
+    "lemma": "god",
+    "upos": "ADJ",
+    "xpos": "adj",
+    "feats": "Definite=Ind|Degree=Pos|Gender=Fem,Masc|Number=Sing",
+    "head": 2,
+    "deprel": "amod",
+    "start_char": 0,
+    "end_char": 3,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  },
+  {
+    "id": 2,
+    "text": "betjening",
+    "lemma": "betjening",
+    "upos": "NOUN",
+    "xpos": "subst",
+    "feats": "Definite=Ind|Gender=Fem|Number=Sing",
+    "head": 0,
+    "deprel": "root",
+    "start_char": 4,
+    "end_char": 13,
+    "ner": "O",
+    "multi_ner": [
+      "O"
+    ]
+  }
+]
+1	God	O	god	ADJ
+2	betjening	B-targ-Positive	betjening	NOUN
+
