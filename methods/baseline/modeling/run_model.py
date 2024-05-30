@@ -46,8 +46,8 @@ from modeling_norbert import NorbertForTokenClassification
 
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
 # for wandb visualization
-os.environ["WANDB_API_KEY"] = "e8c18cfce46b60da2ded2953abcb3399816d6b0b"
-os.environ["WANDB_PROJECT"] = "baseline_dev"
+os.environ["WANDB_API_KEY"] = " " # fill in
+os.environ["WANDB_PROJECT"] = " " # fill in
 # os.environ["WANDB_LOG_MODEL"] = "true"
 os.environ["WANDB_WATCH"] = "true"
 
