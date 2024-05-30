@@ -1,5 +1,5 @@
 # DA-for-Norwegian-TSA
-This is the repository related to the thesis titled "Data Augentation for Norwegian Targeted Sentiment Analysis". Please refer to the thesis (link is coming) for more information, as well as citation. In this repository, we provide the code behind the rul-based and model-based methods, as well as four new augmented training datasets, derived from the NoReC_TSA dataset (https://github.com/ltgoslo/norec_tsa).
+This is the repository related to the thesis titled "Data Augentation for Norwegian Targeted Sentiment Analysis". Please refer to the thesis (link is coming) for more information, as well as citation. In this repository, we provide the code behind the rule-based and model-based methods, as well as four new augmented training datasets, derived from the NoReC_TSA dataset (https://github.com/ltgoslo/norec_tsa).
 
 ## Folder Structure
 **data** contains all the augmented data created with rulebased and model-based methods.
